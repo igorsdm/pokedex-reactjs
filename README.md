@@ -4,6 +4,8 @@
 
 Pokedex is your best pick if you are searching for a specific Pokémon! This application was develop in React and, with it, you can easily filter your favorite type of Pokémon and search it in our database! Don't worry, you may also change the type chosen to look for more Pokémon!
 
+This application was developed for mobile usage, but it can be used in larger devices.  
+
 ## Installation
 
 ### Package Manager
