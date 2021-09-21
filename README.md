@@ -14,7 +14,7 @@ First things first, you must install some things to start the application. To do
 
 ### JSON Server
 
-All database is stored in a `server.json` file in the root folder. We use [JSON Server](https://www.npmjs.com/package/json-server) to simulate a full REST API. To install it, run `npm install -g json-server` or `yarn globall add json-server`.
+All database is stored in a `server.json` file in the root folder. We use [JSON Server](https://www.npmjs.com/package/json-server) to simulate a full REST API. To install it, run `npm install -g json-server` or `yarn global add json-server`.
 
 ### Dependencies
 
